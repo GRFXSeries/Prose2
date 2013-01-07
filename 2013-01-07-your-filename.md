@@ -1,7 +1,8 @@
 #Space Ipsum
 ##by James J. DiStefano
 
-###Jabberwocky Ipsum
+###Adding Jabberwocky Ipsum
+1/7/2013
 
 'Twas brillig, and the slithy toves
 Did gyre and gimble in the wabe;
